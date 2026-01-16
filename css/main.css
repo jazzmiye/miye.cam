@@ -4,12 +4,15 @@
 }
 
 
+div.phone {
+  max-width: 800px;
+}
+
+
 body {
   font-family: "VCR OSD Mono";
-  /* font VCR -> http://www.dafont.com/fr/vcr-osd-mono.font */
   background-color:black;
   color:lightgrey;
-  overflow:hidden;
   background-image: url("https://68.media.tumblr.com/595a5fa01fe53ca0e4ca8f37bacc849d/tumblr_nve67mJtue1tanofjo1_500.gif");
     background-size:cover;
   margin:0;
@@ -17,7 +20,7 @@ body {
   
 }
 
-.background{
+/*.background{
   font-family: "VCR OSD Mono";
   /* font VCR -> http://www.dafont.com/fr/vcr-osd-mono.font */
   background-color:black;
@@ -28,4 +31,4 @@ body {
 /*   background-position: center; */
   margin:0;
   text-shadow: black 2px 2px 1px, black -2px 2px 1px, black -2px -2px 1px, black 2px -2px 1px, black 0px 2px 1px, black 0px -2px 1px, black 2px 0px 1px, black -2px 0px 1px;
-}
+}*/
